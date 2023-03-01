@@ -1,0 +1,22 @@
+{
+  "name": "mathcombat.cyclic.app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungsten-cat/mathcombat.cyclic.app.git"
+  },
+  "author": "tungsten-cat",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tungsten-cat/mathcombat.cyclic.app/issues"
+  },
+  "homepage": "https://github.com/tungsten-cat/mathcombat.cyclic.app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
