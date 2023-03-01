@@ -9,5 +9,5 @@ application.get("/", (request, response) =>
 
 const server = application.listen(process.env.PORT || 3000, () =>
 {
-	console.log(`Server port: ${server.address().port});
+	console.log(`Server port: ${server.address().port}`);
 });
