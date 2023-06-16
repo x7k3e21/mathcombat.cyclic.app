@@ -31,12 +31,12 @@ const winston_transports =
 	
 	new winston.transports.File
 	({
-		filename: "environment/logs/default.log"
+		filename: "environment/default.log"
 	}),
 
 	new winston.transports.File
 	({
-		filename: "environment/logs/errors.log", level: "error" 
+		filename: "environment/errors.log", level: "error" 
 	})
 ];
 
